@@ -84,7 +84,7 @@ attached to it. Managed Ansible playbooks which are built for automated deployme
 
 \headright{Career Highlights}
 
-\smaller{Passing Prestigious low pass rate apprenticeship at BAE Systems as DevOps Engineer.}
+\smaller{Passing Prestigious apprenticeship at BAE Systems as DevOps Engineer.}
 
 \is
 \smaller{Developing a fresh environment to mimic a bare-metal cluster for development on AWS which included infrastructure to spin up EC2s and surrounding environment then provisioning devices and deploying adapted charts, which allowed developers to accurately replicate a high side environment.}
@@ -106,13 +106,10 @@ attached to it. Managed Ansible playbooks which are built for automated deployme
 \headright{Experience}
 
 \textsc{DevOps Engineer} at \textit{DEA}  \dates{March 2025 - Present} \\
-\smaller{Wider DevOps team which monitors, maintains and deploys infrastructure for company projects. Joining various projects and their teams to assist in sprints with creating features and their tools around it and setting up environments for them, then ensuring pipelines work and deploy to customers.}
+\smaller{Part of a Wider DevOps team, which was tasked with monitoring, maintain and deploying infrastructure for various projects. This involved technologies such as usage of IAC to build the environments onto AWS platforms. Then joining various projects and their sprints in order to assist with features and tools needed around them such as various databases and pipelines to build, test and deploy as needed and Supporting and deploying their applications such as turning docker images into helm charts.}
 
 \textsc{DevOps Engineer} at \textit{BAE}  \dates{June 2024 - March 2025} \\
-\smaller{Joined as the Sole DevOps Engineer as part of a DevSecOps team, with the responsibility of owning their pipelines, Azure and actively supporting the entire team and all their repositories and workflows to ensure they run optimally. Maintaining Azure and deploying new VMs as required, designing and deploying credential solution for the team. Laptop security proof of concepts and build automation. Debugging SonarQube instances and configurations they use to ensure clean code is followed.}
-
-\textsc{Junior DevOps Engineer} at \textit{BAE}  \dates{June 2023 - May 2024} \\
-\smaller{DevOps Engineer in a team of DevOps training and mentoring newer members, taking on large-scale tickets to improve deployments and processes as well as automating time-consuming tasks such as monitoring, auto-building infrastructure and certificates, taking on new roles within the company such as part of an early careers council to assist with furthering own knowledge and mentoring early career engineers.}
+\smaller{Joined as the Sole DevOps Engineer as part of a DevSecOps team, with the responsibility of owning their Jenkins pipelines, Azure resources and supporting the entire team and their repositories and workflows to ensure they run optimally. This involved looking after AKS clusters, migrating to on premise servers when needed, Dockerising applications and deploying solutions such as credential workflow for the team, Laptop security proof of concepts and Debugging SonarQube instances and configurations they use to ensure clean code is followed.}
 
 \end{minipage}
 
@@ -155,9 +152,11 @@ within various teams to prioritize work and ensure we can assist each other with
 
 \vspace*{2.5ex}
 
+\textsc{Junior DevOps Engineer} at \textit{BAE}  \dates{June 2023 - May 2024} \\
+\smaller{DevOps Engineer in a team of Engineers. Which focused on maintaining AWS cloud resources for a collection of teams, such as ensuring uptime on all clusters, all remain updated and functional for new features. It involved large-scale tickets to improve deployments and processes as well as automating time-consuming tasks such as monitoring, automated building infrastructure and certificates, taking on new roles within the company such as part of an early careers council to assist with furthering own knowledge and mentoring and training newer engineers.}
+
 \textsc{Apprentice DevOps Engineer} at \textit{BAE}  \dates{November 2021 - June 2023} \\
-\smaller{Started as Apprentice and underwent an intensive boot-camp to learn the skills required
-and then joined a team of engineers, completed an apprenticeship after a year and a half and continued employment with a team of DevOps Engineers supporting and maintaining Software Engineer working environments.}
+\smaller{Started as Apprentice and underwent an intensive boot-camp to learn the skills required. Joined a team of engineers, Monitoring and deploying environments for a section of the company. completed an apprenticeship after a year and a half and continued employment with a team of DevOps Engineers supporting and maintaining Software Engineer working environments.}
 
 \textsc{Bar Manager} at \textit{Whitbread}  \dates{July 2019 - October 2021} \\
 \smaller{Maintaining the bar and its staff ensuring everyone was working well together by people managing, accounting for different stock and the bar as a whole.}
@@ -167,7 +166,7 @@ and then joined a team of engineers, completed an apprenticeship after a year an
 \smaller{Member of a dynamic DevOps team which is tasked to maintain multiple projects within cloud environments and deploying new infrastructure to match their project development and building and provisioning fresh environments for new projects. Then giving time to various projects to assist with developing and deploying infrastructure for features alongside pipelines. }
 
 \is
-\smaller{As the Sole DevOps Engineer, it was my responsibility to maintain the Azure environment from Kubernetes clusters, to migrating off the cluster and various VMs we use. Then migrating from a Jenkins instance and Jenkinsfiles over to GitHub and Actions. This required a lot of rebuilding for automation scripts for the new setup. Then maintaining applications being hosted on our on-premise servers including MDM servers needing debugging and OpenSSL machines for certificates. }
+\smaller{As the Sole DevOps Engineer, as part of a multi disciplined DevSecOps team it was my responsibility to maintain the Azure environment from Kubernetes clusters, to migrating off the cluster and various VMs we use. Then migrating from a Jenkins instance and Jenkinsfiles over to GitHub and Actions. This required a lot of rebuilding for automation scripts for the new setup. Then maintaining applications being hosted on our on-premise servers including MDM servers needing debugging and OpenSSL machines for certificates, while also sharing knowledge with other members of the team and learning parts of their responsibilites as Sysadmins and network engineers. }
 
 \is
 \smaller{During my time as a DevOps Engineer to begin with I was a part of a DevOps team with the responsibility of maintaining multiple teams environments at once by updating them and deploying through Terraform automation pipelines. Streamlining and optimizing the pipeline to increase success rate and reduce build time. Actively supporting the teams when they run into errors.}
