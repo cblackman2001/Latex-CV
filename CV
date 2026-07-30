@@ -53,7 +53,7 @@
 
 
 \href{https://github.com/cblackman2001}{GitHub: cblackman2001} \\
-\href{mailto:#######}{#####} \\
+\href{mailto:}{} \\
 London \\
 \vspace*{0.5ex}
 \headleft{Skills}
@@ -85,6 +85,9 @@ attached to it. Managed Ansible playbooks which are built for automated deployme
 \headright{Career Highlights}
 
 \smaller{Passing Prestigious apprenticeship at BAE Systems as DevOps Engineer.}
+
+\is
+\smaller{Leading the migration of a project to a customers fresh cloud environment, This involved migrating the product, Build and test pipelines and then setting up cluster to accommodate it.}
 
 \is
 \smaller{Developing a fresh environment to mimic a bare-metal cluster for development on AWS which included infrastructure to spin up EC2s and surrounding environment then provisioning devices and deploying adapted charts, which allowed developers to accurately replicate a high side environment.}
